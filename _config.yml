@@ -10,3 +10,7 @@ github_username:  milescrabill
 
 # Build settings
 markdown: kramdown
+
+# sass
+sass:
+  sass_dir: _sass
