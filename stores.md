@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Free-to-Play Storefronts"
+permalink: "/stores/"
 ---
 ##Several Different Free-to-Play Game Storefronts for Comparison
 

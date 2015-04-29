@@ -1,0 +1,40 @@
+blockquote.edery {
+  background-image: url(../assets/edery.jpg);
+  background-position: right bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-right: 50%;
+}
+
+@media (max-width: 800px) {
+  blockquote.edery {
+    background-image: none;
+    padding-right: 0px;
+  }
+}
+
+h2 {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+h3 {
+  margin-bottom: 0px;
+}
+
+table, li:last-child {
+  margin-bottom: 15px;
+}
+
+.table-heading {
+  border-top: 1px;
+  border-color: #292C2B;
+}
+
+cite {
+  font-size: 80%;
+}
+
+img {
+  border-radius: 5px;
+}

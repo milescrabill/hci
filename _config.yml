@@ -1,8 +1,8 @@
 # Site settings
-title: HCI and Free to Play
+title: HCI and Free-to-Play
 email: miles@milescrabill.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website for Miles' HCI final project on Free to Play videogames.
+  This is the website for Miles' HCI final project on Free-to-Play and Freemium videogames.
 baseurl: "/hci" # the subpath of your site, e.g. /blog/
 url: "http://milescrabill.com/hci" # the base hostname & protocol for your site
 twitter_username: milescrabill
