@@ -45,7 +45,7 @@ Central to the experience of any video game is the immersion of the player in th
 
 ![The Magic Circle]({{ site.baseurl }}/assets/magic_circle.jpg)
 
-From an HCI perspective, the breaking of the magic circle constitutes a poor user experience. The user wants to be immersed in the virtual world, but the nature of the payment process disrupts their immersion. Solutions that researchers have provided include better integrating ingame stores, ramping up to the payment invitation so that users are better immersed before they are asked to pay, and more specifically targeting payment requests.
+From an HCI perspective, the breaking of the magic circle constitutes a poor user experience. The user wants to be immersed in the virtual world, but the nature of the payment process disrupts their immersion. Solutions that researchers have provided include integrated ingame stores that fit the game experience, a slow ramp up to the payment invitation so that users are better immersed before they are asked to pay, and targeted payment requests that are focused on specific user segments.
 
 >There are no concepts that can empirically explain the customer behavior in free to play games.
 >
@@ -85,7 +85,7 @@ Two interesting take-aways from Hamari (2015):
 >
 ><cite>--_Hamari (2015)_</cite>
 
-In these free-to-play games with social elements, it is clear that the way your actions are perceived by your friends affect purchasing decisions.
+In these free-to-play games with social elements, it is clear that the way purchasing virtual goods is perceived by your friends affects your purchasing decisions.
 
 ##The Effects of Real Money Transfer in Games
 
@@ -119,6 +119,8 @@ The term "social games" refers to the distribution channel these games utilize. 
 
 Paavilainen et al. (2013) argue that social games are in essence casual games. They typically adhere to the four design values of casual games, namely _acceptability, accessibility, simplicity, and flexibility_ described by Kultima (2009). As an example, Zynga's FarmVille (2009) is an inoffensive, accessible browser game that is simple to understand and play. Social games provide a platform for social interaction in the context of a game that supports sporadic play.
 
+Social games are the perfect platform for free-to-play. Users come in with an established community, the friends in their social network. As a result, the game gains the ability to interact with this community - Facebook games in particular allow users to refer friends for bonuses, challenge friends for points, and more. Creating a large userbase of friends improves the immersiveness of the game, which in turn has been shown to increase the likelihood that users purchase virtual items.
+
 ##**Virtual Items**
 
 ###Hearthstone: Heroes of Warcraft ingame store (click for more!)
@@ -140,7 +142,7 @@ Further research by Nojima shows that players who buy virtual items are more imm
 
 ##**The Value of Virtual Goods**
 
-**Return on Investment of Virtual Goods Purchaes** <cite>adapted from _Park & Lee, (2011)_</cite> 
+**Return on Investment of Virtual Goods Purchases** <cite>adapted from _Park & Lee, (2011)_</cite> 
 
 | Enjoyment value                         | Character competency value | Visual authority value      | Social value       | Monetary value |
 |-----------------------------------------|----------------------------|-----------------------------|--------------------|----------------|
@@ -204,10 +206,10 @@ Free-to-play is all about the relationship that you want to build with your cust
 
 ##Concluding Thoughts
 
-The transition from fixed price to free-to-play has hidden effects. Instead of owning a game and using it as you please, games are now a service. Games are subject to change, whether that means new content, changes to existing content, or otherwise. When you download a game, you're not committing yourself to get your foot in the door anymore. Game developer don't care about the initial purchase - that's small potatoes compared to the money they can get from you over time.
+The transition from fixed price to free-to-play has hidden effects. Instead of owning a game and using it as you please, games are now a service. Games are subject to change, whether that means new content, changes to existing content, or otherwise. When you download a game, you're not committing your wallet anymore. And game developers don't mind - your intial purchase is small potatoes compared to the money they can get from you over time.
 
-The free-to-play revenue model means that your time and money is constantly being fought for. As a consumer, this sounds good - you can invest proportionally to your interest. On the other hand, games used to be complete products that were sold as-is, and now they've evolved. With services such as [Steam's Early Access](http://store.steampowered.com/genre/Early%20Access/) people are buying unfinished games before they're even released.
+The free-to-play revenue model means that your time and money are constantly being fought for. As a consumer, this sounds good - you can invest proportionally to your interest. On the other hand, games used to be complete products that were sold as-is, and now they're being sold with promised features not delivered because they will be part of future updates - partially complete. With services such as [Steam's Early Access](http://store.steampowered.com/genre/Early%20Access/) people are buying unfinished games before they're even released.
 
-The name of the game is customer retention. When you play a free-to-play game and don't pay, you're costing the company money. They pay server upkeep fees, they paid to create the game, and they pay to support it. Every dollar that you don't spend is a dollar they need to come from someone else - but there are people willing to throw it in. Games like Clash of Clans have top players spending more than [$250 per week and playing simultaneously on multiple devices](http://www.nytimes.com/2013/12/22/technology/master-of-his-virtual-domain.html) just to stay at the top. The real money in free-to-play games is in targeting the whales - the 1% of players that are willing to shell out hundreds or thousands of dollars for virtual items - that cost nothing, and can be infinitely resold.
+The name of the game is customer retention. When you play a free-to-play game and don't pay, you're costing the company money. They pay server upkeep fees, they paid to create the game, and they pay to support it. Every dollar that you don't spend is a dollar they need to come from someone else - and there are people willing to throw it in. Games like Clash of Clans have top players spending more than [$250 per week and playing simultaneously on multiple devices](http://www.nytimes.com/2013/12/22/technology/master-of-his-virtual-domain.html) just to stay at the top. The real money in free-to-play games is in targeting the whales - the 1% of players that are willing to shell out hundreds or thousands of dollars for virtual items - that cost nothing, and can be infinitely resold.
 
 *[RMT]: Real Money Transfer
