@@ -6,7 +6,7 @@ date:   2015-04-29 15:06:35
 
 ##Deconstructing Free-to-Play
 
-Welcome to Miles's HCI Spring 2015 final project. The subject of free-to-play games and freemium business models is one that has interested me for a long time. I personally play several games that use these revenue models and have spent (invested?) quite a bit of money in them.
+Welcome to Miles's final project for [Erik Nilsen's Spring 2015 Human Computer Interaction Course](http://legacy.lclark.edu/~nilsen/425sp15.html). The subject of free-to-play games and freemium business models is one that has interested me for a long time. I personally play several games that use these revenue models and have spent (invested?) quite a bit of money in them.
 
 It's been interesting reading the academic research on the subject, particularly the discussions of user behavior, and recognizing the patterns that I or my social groups have exhibited.
 
