@@ -1,19 +1,26 @@
 ---
 layout: post
-title:  "Deconstructing Free-to-Play"
+title:  ""
 date:   2015-04-29 15:06:35
 ---
+
+##Deconstructing Free-to-Play
+
+Welcome to Miles's HCI Spring 2015 final project. The subject of free-to-play games and freemium business models is one that has interested me for a long time. I personally play several games that use these revenue models and have spent (invested?) quite a bit of money in them.
+
+It's been interesting reading the academic research on the subject, particularly the discussions of user behavior, and recognizing the patterns that I or my social groups have exhibited.
 
 >Let me tell you what free to play represents to me: an opportunity to bring entertainment to billions of people without relying on advertising revenue or government subsidies. An opportunity to embrace players who want to play our games but can't (or won't) pay, instead of forcing them to become pirates.
 >
 >For the first time in the history of mass media, we can entertain huge audiences without first bombarding them with advertisements for sugar water and corn flakes and without making them pirates. How is it that some people don't see the beauty of this?
 >
-><cite>--_David Edery, "The Magic of Free-to-Play" (2012)_</cite>
+><cite>--_David Edery, CEO of Spry Fox (Triple Town, Realm Of The Mad God), "The Magic of Free-to-Play" (2012)_
+</cite>
 {: .edery }
 
 As the end user, Free-to-Play sounds too good to be true. Instead of paying for a game, you can just play it. After all, when the only cost to you is your time, what's the harm?
 
-##**The Free-to-Play or Freemium Business Model**
+##The Free-to-Play or Freemium Business Model
 
 ###The Concept
 
@@ -123,8 +130,10 @@ Social games are the perfect platform for free-to-play. Users come in with an es
 
 ##**Virtual Items**
 
-###Hearthstone: Heroes of Warcraft ingame store (click for more!)
-<a href="{{ site.baseurl }}/stores/">![Hearthstone ingame Store]({{ site.baseurl }}/assets/hs_store.jpg)</a>
+###Hearthstone: Heroes of Warcraft ingame store
+![Hearthstone ingame Store]({{ site.baseurl }}/assets/hs_store.jpg)
+
+####[Check out the Free-to-Play Storefront comparison!]({{ site.baseurl }}/stores)
 
 The exchange of real money for virtual goods first occurred in 1999 in the games _Ultima Online_ and _EverQuest_, when players sold items to one another on eBay. The games had trading features built-in that allowed players to emulate a free market economy. The evolution of the virtual goods market has since been shifted from _player to player_ transactions to _operator to player_ transactions (Hamari & Lehdonvirta, 2010). This shift has supported a change in revenue model from fixed price subscription fees to free to play with paid content.
 
@@ -151,6 +160,8 @@ Further research by Nojima shows that players who buy virtual items are more imm
 | Playfulness value (escapism, enjoyment) | Functional Item            | Vanity item                 | Social attributes  |                |
 |                                         | Character competency       | Hedonic attributes          | Social value       |                |
 |                                         | Functional attributes      | Visual/musical appeal value |                    |                |
+
+Park & Lee summarized previous research, listing the ways that players feel they get value out of purchasing and owning virtual goods. The most interesting to me is the social value category. Players identify with their avatars, as it is their connection to the virtual world. The avatar expresses the player's investment in the game, and is a tangible representation for other players of the game. Hence, the ingame social value of investment in virtual goods is apparent - you can show off your investment in the game.
 
 ###The results of Park & Lee's study of the value of purchasing virtual items (2011)
 
@@ -185,7 +196,7 @@ Content is restricted to those who fulfill certain criteria, therefore enforcing
 
 ###Artificial Scarcity
 
-Games that create an environment where avatars and accounts can be compared between users almost always integrate artificial scarcity. Rare, collectible items are status symbols that ascibre value to virtual items in the virtual world. Artificial scarcity inflates the value of virtual items out of proportion, creating a value proposition for real money trading.
+Games that create an environment where avatars and accounts can be compared between users almost always integrate artificial scarcity. Rare, collectible items are status symbols that ascribe value to virtual items in the virtual world. Artificial scarcity inflates the value of virtual items out of proportion, creating a value proposition for real money trading.
 
 ###This Dota2 Pink Courier Item [sold for more than $38,000](http://www.engadget.com/2013/11/06/dota-2-pink-war-dog-courier-sells-for-38-000/) because of its rare properties
 ![Dota 2 Pink Ethereal Flame War Dog Courier]({{ site.baseurl }}/assets/courier.png)
@@ -211,5 +222,25 @@ The transition from fixed price to free-to-play has hidden effects. Instead of o
 The free-to-play revenue model means that your time and money are constantly being fought for. As a consumer, this sounds good - you can invest proportionally to your interest. On the other hand, games used to be complete products that were sold as-is, and now they're being sold with promised features not delivered because they will be part of future updates - partially complete. With services such as [Steam's Early Access](http://store.steampowered.com/genre/Early%20Access/) people are buying unfinished games before they're even released.
 
 The name of the game is customer retention. When you play a free-to-play game and don't pay, you're costing the company money. They pay server upkeep fees, they paid to create the game, and they pay to support it. Every dollar that you don't spend is a dollar they need to come from someone else - and there are people willing to throw it in. Games like Clash of Clans have top players spending more than [$250 per week and playing simultaneously on multiple devices](http://www.nytimes.com/2013/12/22/technology/master-of-his-virtual-domain.html) just to stay at the top. The real money in free-to-play games is in targeting the whales - the 1% of players that are willing to shell out hundreds or thousands of dollars for virtual items - that cost nothing, and can be infinitely resold.
+
+##Additional Reading
+
+###[Opinion: Online free-to-play done right (and wrong)](http://www.shacknews.com/article/85327/opinion-online-free-to-play-done-right-and-wrong).
+This ShackNews piece by Nathaniel Hohl has a good overview and comparison of which free-to-play games are done well and which are done poorly, as well as some opinions on what makes a free-to-play game good or bad.
+
+###[Saturday Soapbox: The Scourge of Free to Play](http://www.eurogamer.net/articles/2011-08-06-the-saturday-soapbox-the-scourge-of-free-to-play-opinion)
+This Eurogamer piece by John Bedford is a bit jaded, harping on the transition from fixed-price games to free-to-play and freemium games, and what that means as player.
+
+###[Opinion: The magic of free-to-play](http://www.gamasutra.com/view/news/174308/Opinion_The_magic_of_freetoplay.php)
+This Game Developer Magazine piece by David Edery (quoted at the top) explains Edery's positive perspective on free-to-play games. Edery is the CEO of Spry Fox, a game studio.
+
+###[What happens when free-to-play games aren't free?](http://www.eurogamer.net/articles/2013-11-23-whens-a-free-to-play-game-not-free-to-play)
+This Eurogamer piece by Martin Robinson explores the growing prevalence of microtransactions in Xbox 360 games.
+
+###And of course, check out [my references]({{ site.baseurl }}/references) for some more good reads!
+
+<br />
+
+This project is open source and available on [Github](https://github.com/milescrabill/hci/tree/gh-pages). The site is hosted on Github Pages and is generated by [Jeykll](http://jekyllrb.com).
 
 *[RMT]: Real Money Transfer

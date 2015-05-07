@@ -13,13 +13,22 @@ blockquote.edery {
   }
 }
 
+@media (max-width: 1000px) {
+  .sidebar {
+    visibility: hidden;
+  }
+}
+
 h2 {
-  margin-top: 15px;
+  padding-top: 60px;
+  margin-top: -45px;
   font-weight: bold;
+  font-size: 180%;
 }
 
 h3 {
   margin-bottom: 0px;
+  font-size: 140%;
 }
 
 table, li:last-child {
@@ -37,4 +46,18 @@ cite {
 
 img {
   border-radius: 5px;
+}
+
+.sidebar {
+  position: fixed;
+  width: 12%;
+  left: 10px;
+  top: 100px;
+
+  li {
+    padding-top: 10px;
+    font-size: 80%;
+    list-style: none;
+    margin: 0;
+  }
 }
